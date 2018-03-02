@@ -14,7 +14,3 @@ To work with object detector you must:
 After all done, run object recognizer in you browser:
 -sudo python3 mainWorker.py
 -sudo nodejs server.js (in folder <browser/server>)
-
---------
-
-<a href="https://adexin.com/contact-us/">Contact us</a> if you have any questions. Use our <a href="https://adexin.com/services/machine-learning-consulting/">Machine learning development services</a>.
