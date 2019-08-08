@@ -4,7 +4,7 @@ Website with image recognition from camera
 To work with object detector you must:
 1. Get certificate files and add to tornado web server in mainWorker.py file
    - Path to folder - data_dir
-   - Then add names for .crt and .key files
+   - Add .crt and .key files
 2. In file server.js:
    - Add ca-bundle, key and crt files
 3. In file receiver.js:
