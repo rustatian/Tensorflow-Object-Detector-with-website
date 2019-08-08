@@ -5,9 +5,9 @@ To work with object detector you must:
 1. Get certificate files and add to tornado web server in mainWorker.py file
    - Path to folder - data_dir
    - Add .crt and .key files
-2. In file server.js:
+2. In the file server.js:
    - Add ca-bundle, key and crt files
-3. In file receiver.js:
+3. In the file receiver.js:
    - Add your wss enpoint address (for example -  wss://example.com:443)
 4. Run npm install in folder 'browser/server'
 
