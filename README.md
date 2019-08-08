@@ -14,3 +14,4 @@ To work with object detector you must:
 After all done, run object recognizer in you browser:
 -sudo python3 mainWorker.py
 -sudo nodejs server.js (in folder <browser/server>)
+
